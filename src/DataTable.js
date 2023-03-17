@@ -33,7 +33,7 @@ const DataTable = () => {
 
     const TableHeader = () => {
         return (
-            <thead >
+            <thead  >
                 <tr>
                     <th>ID</th>
                     <th>First Name</th>
